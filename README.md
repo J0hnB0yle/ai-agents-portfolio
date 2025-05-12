@@ -22,13 +22,17 @@ Analyze datasets, generate statistical insights, and create visualizations with 
 
 [View Project](https://github.com/J0hnB0yle/DataAnalysisAgent)
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Python 3.8+
-- Anthropic Claude API
-- Streamlit (for web interfaces)
-- Pandas, Matplotlib, Seaborn (for data analysis)
-- PyPDF, NLTK (for document processing)
+- 🐍 **Python** - Core programming language
+- 🤖 **Claude API** - Large language model integration
+- 🌊 **Streamlit** - Web interface framework
+- 🐼 **Pandas** - Data manipulation and analysis
+- 🔢 **NumPy** - Numerical computing
+- 📊 **Matplotlib & Seaborn** - Data visualization
+- 📄 **PyPDF** - PDF document processing
+- 🔤 **NLTK** - Natural language processing
+- 🧠 **scikit-learn** - Machine learning capabilities
 
 ## Contact
 
