@@ -15,12 +15,12 @@ This portfolio showcases my expertise in:
 ### Document Analysis Agent
 Process, analyze, and extract insights from business documents with intelligent summarization, information extraction, and question answering capabilities.
 
-[View Project](./DocumentAnalysisAgent)
+[View Project](./DocumentAnalysisAgent - https://github.com/J0hnB0yle/DocumentAnalysisAgent)
 
 ### Data Analysis Agent
 Analyze datasets, generate statistical insights, and create visualizations with AI-powered interpretation and recommendations.
 
-[View Project](./DataAnalysisAgent)
+[View Project](./DataAnalysisAgent - https://github.com/J0hnB0yle/DataAnalysisAgent)
 
 ## Technologies Used
 
