@@ -32,6 +32,11 @@ Analyze datasets, generate statistical insights, and create visualizations with 
 
 **Technologies:** Python, Claude API, Streamlit, Pandas, Matplotlib, Scikit-learn
 
+### Customer Support Agent
+Handle customer inquiries with an intelligent agent that leverages a knowledge base for accurate responses.
+- [View Code](./customer_support_agent)
+- [Demo Video](#) <!-- Add your demo video link here -->
+
 ## 🛠️ Technologies Used
 
 - 🐍 **Python** - Core programming language
