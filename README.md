@@ -70,8 +70,8 @@ I plan to expand this portfolio with:
 
 Feel free to reach out with any questions or collaboration opportunities:
 
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [johnboylenj@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/johnboylemba]
 
 ## 📃 License
 
