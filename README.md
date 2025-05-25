@@ -33,7 +33,17 @@ Analyze datasets, generate statistical insights, and create visualizations with 
 **Technologies:** Python, Claude API, Streamlit, Pandas, Matplotlib, Scikit-learn
 
 ### Customer Support Agent
-Handle customer inquiries with an intelligent agent that leverages a knowledge base for accurate responses.
+Customer Support Agent
+An intelligent customer support system that leverages a knowledge base and AI to provide accurate, consistent responses to customer inquiries.
+
+**Key Features**
+- Knowledge Base Management: Upload and manage FAQ databases in JSON or CSV format
+- Semantic Search: Find similar questions using sentence transformers for accurate matching
+- Query Classification: Automatically categorize customer queries by type
+- Contextual Responses: Generate relevant responses with proper citations from knowledge base
+- Conversation Memory: Maintain context across multi-turn conversations
+- Interactive Web Interface: User-friendly Streamlit interface for both agents and administrators
+
 - [View Code](./customer_support_agent)
 - [Demo Video](#) <!-- Add your demo video link here -->
 
@@ -62,7 +72,6 @@ Handle customer inquiries with an intelligent agent that leverages a knowledge b
 
 I plan to expand this portfolio with:
 
-- **Customer Support Agent** - Automated customer query handling with knowledge base integration
 - **Research Assistant** - Advanced web research and information synthesis
 - **Content Creation Agent** - AI-powered content generation for marketing and communications
 
